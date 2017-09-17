@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-12_0942",
-    "currentPage": "page12.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,8 +26,8 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 71,
-    "versionPublish": "4.2.4",
+    "uniqCompNum": 87,
+    "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": ""
   },
@@ -61,7 +61,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -166,7 +166,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "src": "https://youtu.be/HUqJ1KxNRFg",
+              "src": "https://www.youtube.com/watch?v=HUqJ1KxNRFg&feature=player_embedded",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on",
@@ -238,18 +238,24 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2750-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9042-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
@@ -411,7 +417,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -622,7 +628,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -833,7 +839,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1044,7 +1050,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1255,7 +1261,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1560,6 +1566,56 @@
           }
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/WYT8U2gSVPI",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "闖關關主影片",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/playlist?list=PLbsbfxnrr_yl-hSQLAwBfZ9pmZ7yAQB5m\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2e"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -1578,7 +1634,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1738,7 +1794,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2031,7 +2087,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2302,7 +2358,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2584,7 +2640,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2855,7 +2911,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3123,289 +3179,342 @@
       "components": [
         {
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "filterBgColor": false,
-            "bgColor": "#FFFFFF",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/245-654x597.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/245-654x597-654x597.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/654-796x597.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/654-796x597-796x597.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/987-863x573.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/987-863x573-800x531.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/4546-869x649.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4546-869x649-800x597.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1213-795x596.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1213-795x596-795x596.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/8978-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/8978-1280x720-800x450.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/45646-1024x683.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/45646-1024x683-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-36-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-36-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-37-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-37-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-2-600x400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2-600x400-600x400.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-9409.png-750x499.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9409.png-750x499-750x499.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-38-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-38-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-39-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-39-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-40-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-40-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-41-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-41-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-869x577.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/869x577-800x531.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-864x573.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/864x573-800x530.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1329.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1329-800x531.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-865x573.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/865x573-800x529.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-1920x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1920x1200-800x500.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-774x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/774x600-774x600.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-259x194.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/259x194-259x194.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-746x498.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/746x498-746x498.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-728x546.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/728x546-728x546.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "articleLayout": false,
-          "allItem": "All",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/245-600x547.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8616.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/654-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8626.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/987-600x398.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8627.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1213-600x449.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8625.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1u"
+          "_name": "features3",
+          "_anchor": "features3-24"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4546-600x448.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8619.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/8978-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8624.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/45646-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8622.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-9403-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%863.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-28"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8618.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-259x194.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8612.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8613.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%867.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-29"
         },
         {
           "_inherit": "menu",
@@ -3426,7 +3535,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">上課照片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習成果影片</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">農耕趣</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">鳥類保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3503,6 +3612,458 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">風櫃國小</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1m"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8618.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-259x194.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8612.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8613.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%867.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2a"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8618.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-259x194.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8612.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8613.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%867.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2b"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "3",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8618.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-259x194.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8612.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8613.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%867.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2c"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8618.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-259x194.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8612.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%8613.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/finally%E6%A4%8D%E7%89%A9%E8%A1%A8%E6%A0%BC_%E9%83%A8%E5%88%867.pdf",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2d"
         },
         {
           "_params": {
