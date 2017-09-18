@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-12_0942",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": ""
@@ -61,7 +61,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -458,7 +458,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -669,7 +669,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -880,7 +880,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1007,6 +1007,56 @@
           "_anchor": "header2-i"
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ENjOJfpaZ4Q",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2i"
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1091,7 +1141,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1218,56 +1268,6 @@
           "_anchor": "header2-m"
         },
         {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "70",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/ENjOJfpaZ4Q",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-2h"
-        },
-        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1352,7 +1352,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1725,7 +1725,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1885,7 +1885,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2178,7 +2178,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2493,7 +2493,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2775,7 +2775,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3046,7 +3046,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3703,7 +3703,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">學習成果照片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">數位課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">能源課程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">行動會議</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">學習成果影片</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">植物介紹</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">學習歷程</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">樂活農耕</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">闖關活動</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">生態保育</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html\">植物圖鑑</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">學習成果文件</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html\">首頁</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3930,7 +3930,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3982.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3980.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3941,7 +3941,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3973.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3971.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
