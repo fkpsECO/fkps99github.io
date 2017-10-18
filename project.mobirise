@@ -1488,7 +1488,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "學習成果文件",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -2279,7 +2279,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "闖關活動",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3647,6 +3647,61 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-7367-2000x1500-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "影片剪輯設計",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5254-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5254-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "影片剪輯設計",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5262-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5262-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "影片剪輯設計",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5273-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5273-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "影片剪輯設計",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5275-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5275-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "影片剪輯設計",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5298-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5298-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
@@ -4724,7 +4779,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3984.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3982.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4735,7 +4790,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3975.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3973.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
