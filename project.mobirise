@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-12_0942",
-    "currentPage": "page14.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,7 +29,9 @@
     "uniqCompNum": 110,
     "versionPublish": "4.3.0",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
